@@ -1,8 +1,8 @@
 .logo {
   width: 120px;
   height: 31px;
-  background: url(../images/logo.png);
-  background-size: cover;
+  background: url(../images/douban.jpg.png);
+  background-size: 120px 31px;
   background-color: #eee;
   border-radius: 8px;
   margin: 16px 24px 16px 0;

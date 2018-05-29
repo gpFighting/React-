@@ -20,7 +20,7 @@ export default class App extends React.Component {
 		      <Menu
 		        theme="dark"
 		        mode="horizontal"
-		        defaultSelectedKeys={[location.hash.split('/')[1] || "home"]}            
+		        defaultSelectedKeys={[location.hash.split('/')[1] || "movie"]}            
 		        style={{ lineHeight: '64px' }}
 		      >
 		        <Menu.Item key="home"><Link to="/home">首页</Link></Menu.Item>
